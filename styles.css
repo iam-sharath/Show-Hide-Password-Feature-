@@ -1,0 +1,23 @@
+body{
+    font-family: 'poppins';
+}
+.box{
+    display: flex;
+    flex-direction: column;
+    align-items:flex-start;
+    gap:5px;
+    padding: 160px 320px;
+}
+label{
+    font-size: xx-large;
+    font-weight: 600;
+}
+input{
+    border: 2px solid black;
+    font-size: x-large;
+}
+button{
+    font-size: larger;
+    font-weight: 600;
+
+}
